@@ -1,6 +1,13 @@
 Welcome to the SAS Base Certification Repository!
-Here, I've compiled a variety of resources that I found useful while preparing for the Base SAS certification. 
-My aim is to provide a helpful reference for those who are gearing up for the SAS Base certification exam.
-Inside this repository, you'll find a prep guide, practice questions, and datasets tailored for hands-on learning. 
-Whether you're just starting your journey or looking for extra practice, I hope you'll find these materials valuable in your quest for SAS Base certification success. 
-Let's dive in and conquer the SAS Base certification exam together!
+
+Within this repository, you'll discover a wealth of resources that were invaluable during my own preparation for the Base SAS certification exam. Here's a glimpse of what you'll find:
+
+Practice Questions: Dive into 9 sets of practice questions designed to hone your skills and reinforce your understanding of key concepts.
+
+Base SAS Prep Guide: Access the comprehensive BASE SAS preparation guide, meticulously curated to cover all essential topics and equip you with the knowledge needed to excel in the exam.
+
+Dataset Collection: Explore the dataset folder containing datasets referenced in the prep guide. These datasets are essential for hands-on learning and applying theoretical concepts in a practical setting.
+
+To get started, open the "cre8data.sas" program in your preferred SAS environment. In the "Path" macro variable, simply replace "/folders/myfolders" with the path to your "Cert" folder, then execute the program. 
+
+Happy studying and best of luck on your exam!
