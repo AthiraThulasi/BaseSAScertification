@@ -70,7 +70,7 @@ run;
  by sales;
  run;
  
- proc print data = work.sortedshoes2;   *PACIFIC?????????? is the descnding sortd dataset is sorted again?;
+ proc print data = work.sortedshoes2;   
  run;
  
 *------------------------------------------------------------------------------------------------------
